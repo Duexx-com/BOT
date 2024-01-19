@@ -1,0 +1,22 @@
+{
+    "prefix": "!",
+    "genChannel": "1193226771718488125",
+    "vgenChannel": "1193226772926447686",
+    "pgenChannel": "1193226774440591500",
+    "opgenChannel":
+"1193246562902605864",
+    "servername" : "Bird Gen",
+    "website": "https://t.me/retroxservices",
+    "genCooldown": "5000",
+    "genCooldownsec": "5",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
