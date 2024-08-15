@@ -4,8 +4,8 @@ const fs = require('fs');
 const config = require('../config.json');
 
 module.exports = {
-  name: 'vstock', // Command name
-  description: 'Display the service stock (vip)⭐.', // Command description
+  name: 'bstock', // Command name
+  description: 'Display the service stock (Booster)🚀.', // Command description
 
     /**
      * Command exetute
