@@ -13,7 +13,7 @@ const customCooldownHours = 0.08; // Change the value as desired
 const genCooldownsec = customCooldownHours * 60 * 60; // Calculate the cooldown in seconds
 
 module.exports = {
-  name: 'vgen', // Command name
+  name: 'bgen', // Command name
   description: 'Generate a specified service if stocked (vgen).', // Command description
 
   /**
