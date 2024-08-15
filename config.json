@@ -1,12 +1,12 @@
 {
     "prefix": "!",
-    "genChannel": "1193226771718488125",
-    "vgenChannel": "1193226772926447686",
-    "pgenChannel": "1193226774440591500",
+    "genChannel": "1258774343694155867",
+    "bgenChannel": "1273650300841889912",
+    "pgenChannel": "1258799894395879484",
     "opgenChannel":
-"1193246562902605864",
-    "servername" : "Bird Gen",
-    "website": "https://t.me/retroxservices",
+"1273650427442757733",
+    "servername" : "Fire Gen",
+    "website": "google.com",
     "genCooldown": "5000",
     "genCooldownsec": "5",
     "color": {
